@@ -1,7 +1,7 @@
 # Lab8Web
 Database PHP dan Mysql
 
-###### Nama : Veronika Dame
+###### Nama : Veronika Rustiani Dame Sihombing
 ###### NIM : 312010325
 ###### Kelas : TI.A.2
 
